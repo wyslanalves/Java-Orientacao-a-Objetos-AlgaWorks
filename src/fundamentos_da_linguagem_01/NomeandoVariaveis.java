@@ -6,7 +6,7 @@ public class NomeandoVariaveis {
         //melhor forma de declarar variaveis
         int quantidadeDeAlunos;
         int quantidadeDeAlunosNota10;
-        int 
+
 
         int quantidade;
         int quantidade_aluno;
