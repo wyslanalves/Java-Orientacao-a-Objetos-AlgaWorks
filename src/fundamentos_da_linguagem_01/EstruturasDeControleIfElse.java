@@ -16,7 +16,7 @@ public class EstruturasDeControleIfElse {
         double altura = entrada.nextDouble();
 
         double imc = peso / (altura * altura);
-        
+
 
         System.out.println("IMC de " + nome + "; " + imc);
 
