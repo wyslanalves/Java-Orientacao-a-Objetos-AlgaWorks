@@ -9,4 +9,8 @@ public class Carro {
     boolean biCombustivel;
 
     Proprietario proprietario;
+
+    void ligar(){
+        System.out.println("Lingando o Carro: " + modelo);
+    }
 }
