@@ -4,6 +4,6 @@ public class Jogador  extends  Pessoa{
 
     protected  boolean aindaJoga = false;
 
-    
+
 
 }
