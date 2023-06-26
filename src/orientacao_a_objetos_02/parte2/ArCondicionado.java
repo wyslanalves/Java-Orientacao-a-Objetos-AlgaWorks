@@ -4,13 +4,13 @@ public class ArCondicionado {
 
     private int temperatura;
 
-    void trocarTemperatura(int temperatura){
+    public void trocarTemperatura(int temperatura){
         if (temperatura >= 17 && temperatura <=28){
             this.temperatura = temperatura;
         }
     }
 
-    int obterTemperatura(){
+    public int obterTemperatura(){
         return  temperatura;
     }
 }
