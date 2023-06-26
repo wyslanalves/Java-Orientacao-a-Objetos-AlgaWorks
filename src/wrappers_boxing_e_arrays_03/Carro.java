@@ -1,4 +1,6 @@
-package orientacao_a_objetos_02.parte1;
+package wrappers_boxing_e_arrays_03;
+
+import orientacao_a_objetos_02.parte1.Proprietario;
 
 public class Carro {
 
