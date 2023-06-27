@@ -21,7 +21,7 @@ public class Calendario {
         System.out.println(dateFormat.format(c.getTime()));
 
         c.add(Calendar.MONTH, 1);
-        DateFormat dateFormat = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
+        DateFormat dateFormat1 = new SimpleDateFormat("dd/MM/yyyy HH:mm:ss");
 
 
 
